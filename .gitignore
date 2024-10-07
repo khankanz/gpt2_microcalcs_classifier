@@ -1,2 +1,5 @@
 # Making sure to not track real_data folder
 real_data
+
+# Not using GitHub to track models
+models
